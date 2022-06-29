@@ -44,14 +44,8 @@
 <h2>📈 My GitHub Stats</h2>
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasculino&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasculino&show_icons=true&theme=dark" />
 </a>
-<br/>
-<a align="center" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasculino&layout=compact&theme=cobalt" />
-</a>
-
-<i>NOTE: 'Most Used Languages' does not indicate my skill level, it's a GitHub metric of which languages i have the most code on GitHub.</i>
 
 <br/>
 <br/>
