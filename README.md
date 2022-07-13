@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Thomas, a 4th year student in Datascience and AI at ESILV Paris-La Défense</h3>
 
+
+
+
+
 <br/>
 
-<p align="center"><img align="center" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600px"></p>
 
-<br/>
-<br/>
-
-<h2>🎓 My courses this semester</h2>
+<h2>🎓 My courses last semester</h2>
 
 - Chatbots and Recommendation Systems
 
@@ -41,14 +41,12 @@
 <br/>
 <br/>
 
-<h2>📈 My GitHub Stats</h2>
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasculino&show_icons=true&theme=highcontrast" />
-</a>
 
-<br/>
-<br/>
+
+
+
+
 
 <h2>💬 Connect With Me</h2>
 
