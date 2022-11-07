@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Thomas, a 4th year student in Datascience and AI at ESILV Paris-La Défense</h3>
+<h3 align="center">I'm Thomas, a 5th year student in Datascience and AI at ESILV Paris-La Défense currently in an academic exchange in Mälardalens Universitet</h3>
 
 
 
@@ -8,17 +8,16 @@
 <br/>
 
 
-<h2>🎓 My courses last semester</h2>
+<h2>🎓 My courses this semester</h2>
 
-- Chatbots and Recommendation Systems
+- Learning Systems
 
-- Web Application Architecture
+- Web Application development
 
-- Web Datamining & Semantics
+- Software Engineering 2 : Project teamwork
 
-- Advances Topics in NoSQL Databases
+- Computer Architecture
 
-- Neural Networks & Deep Learning
 
 
 <br/>
