@@ -1,26 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Thomas, a 5th year student in Datascience and AI at ESILV Paris-La Défense currently in an academic exchange in Mälardalens Universitet</h3>
+<h3 align="center">I'm Thomas, a 5th year student in Datascience and AI at ESILV Paris-La Défense currently looking for an end-of-studies internship as a data analyst/developer/quality assurance/machine learning </h3>
 
 
 
 
 
-<br/>
 
-
-<h2>🎓 My courses this semester</h2>
-
-- Learning Systems
-
-- Web Application development
-
-- Software Engineering 2 : Project teamwork
-
-- Computer Architecture
-
-
-
-<br/>
 <br/>
 
 <h2>⚙️ Languages and Tools</h2>
